@@ -1,4 +1,4 @@
 # AV2-Ambientes
 
-login
-senha
+login: usuario
+senha: 12345
